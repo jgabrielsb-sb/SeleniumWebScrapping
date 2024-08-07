@@ -14,5 +14,5 @@ number_to_collect = #define how much announcements you want to collect
 products_df = get_products(CONST_ML_URL, driver, product_name, number_to_collect)
 ```
 
-* More details about this Script, see my Medium post: 
+* More details about this Script, see my Medium post: https://medium.com/@jgabrielsb2002/automating-product-searches-on-mercado-livre-with-selenium-and-python-5012864f52b1
   
