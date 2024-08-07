@@ -2,6 +2,7 @@
 Application using Selenium, Pandas and Python to Automatize Web Scrapping
 
 * How to use it
+  
   First, you need to install Selenium and the necessary webdrivers. Additionally, you need to install Pandas library to deal with Dataframes.
   Then, if you just want to webscrappe a product in 'Mercado Livre', you must use the following script
 
